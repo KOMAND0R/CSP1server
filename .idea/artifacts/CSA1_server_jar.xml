@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSA1-server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSA1_server_jar</output-path>
+    <root id="archive" name="CSA1-server.jar">
+      <element id="module-output" name="CSA1-server" />
+    </root>
+  </artifact>
+</component>
